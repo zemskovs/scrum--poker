@@ -1,0 +1,15 @@
+/* Your app styles here */
+:root {
+	--f7-subnavbar-bg-color-rgb: rgb(39, 201, 57);
+	--f7-navbar-link-color: #ffffff;
+	--f7-theme-color: rgb(39, 201, 57);
+}
+
+.navbar {
+	background-color: #27c939;
+	--f7-navbar-text-color: #ffffff;
+}
+
+.navbar .navbar-bg {
+	background-color: #27c939;
+}
